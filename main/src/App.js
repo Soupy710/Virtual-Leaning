@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Subtopic from "./Subtopic";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Login from "./Login.js";
@@ -14,7 +15,8 @@ function App() {
       <Routes>
         <Route path="/" exact element={<Login/>}/>
         <Route path='/home' exact element = {<Landing/>} />
-      
+        <Route path='/physics' exact element = {<Subtopic topic='physics'/>} />
+
       </Routes>
     </BrowserRouter>
       

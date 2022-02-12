@@ -1,0 +1,395 @@
+{
+  "email": "",
+  "subject": {
+    "physics": {
+      "count": 0,
+      "topic": {
+        "thermodynamics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "optics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "electricity": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        }
+      }
+    },
+    "chemistry": {
+      "count": 0,
+      "topic": {
+        "Thermodynamics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "optics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "electricity": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        }
+      }
+    },
+    "maths": {
+      "count": 0,
+      "topic": {
+        "Thermodynamics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "optics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "electricity": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        }
+      }
+    },
+    "english": {
+      "count": 0,
+      "topic": {
+        "thermodynamics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "optics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "electricity": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        }
+      }
+    },
+    "cs": {
+      "count": 0,
+      "topic": {
+        "thermodynamics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "optics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "electricity": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        }
+      }
+    },
+    "sex ed": {
+      "count": 0,
+      "topic": {
+        "thermodynamics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "optics": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        },
+        "electricity": {
+          "count": 0,
+          "method": {
+            "visual": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "notes": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            },
+            "papers": {
+              "count": 0,
+              "time": 0,
+              "score": "null"
+            }
+          }
+        }
+      }
+    }
+  }
+}
